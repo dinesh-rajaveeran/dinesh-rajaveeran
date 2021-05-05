@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background-color: white;">
 <a href="https://codepen.io/dinesh-mohan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dinesh-rajaveeran" height="30" width="40" /></a>
 <a href="https://twitter.com/DineshRajave" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dinesh-rajaveeran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/connectwithdinesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dinesh-rajaveeran" height="30" width="40" /></a>
