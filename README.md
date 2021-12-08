@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dinesh Rajaveeran</h1>
-<h3 align="center">A unique hybrid Senior Software Engineer / Test Automation Architect, with keen eye for design, engineering and quality of Software products and solutions</h3>
+<h3 align="center">Hybrid Senior Software Developer / Test Automation Architect, with keen eye for design, engineering and quality of Software products and solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-rajaveeran&label=Profile%20views&color=0e75b6&style=flat-square" alt="dinesh-rajaveeran" /> </p>
 
